@@ -1,4 +1,4 @@
-# Getting a Git Repo
+# Getting / Creating a Git Repo
 
 -   Creating a repo from a directory:
     
